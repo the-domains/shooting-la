@@ -1,0 +1,28 @@
+name: Shooting LA
+favicon: null
+layout_spectrum: 0.818163474323228
+typography_spectrum: 0.45501457690261304
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.476588994031772
+  lightness: 0.6322513052728027
+  saturation: 0.1992128724232316
+  rhythmicContrast: 0.22169387387111783
+purpose: []
