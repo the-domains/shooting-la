@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Shooting LA]]></title>
+        <description><![CDATA[Shooting LA]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Dec 2015 04:02:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shooting LA]]></title>
+            <description><![CDATA[<article><h1>Shooting LA</h1><p>The Art of Real Estate</p></article>]]></description>
+            <link>undefinedshooting-la/index.html</link>
+            <guid isPermaLink="false">5aef2892-1ab3-4fc8-ac60-88639afe55ab</guid>
+            <pubDate>Wed, 02 Dec 2015 04:02:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
